@@ -49,6 +49,14 @@ The servo motors are programmed to rotate and return to their initial positions 
 - Integration of ultrasonic sensors to monitor the filling levels of collection bins.
 - GSM-based notifications for waste collection when bins reach their capacity.
 
+Project Gallery
+
+Prototype Overview
+
+
+
+Flap Mechanism
+
 ## Applications
 
 - Household waste segregation.
